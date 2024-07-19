@@ -1,0 +1,5 @@
+This sample has been created purely for use with the associated Blue Team Labs Online challenge Injection Series Part 4. Any distribution, modification, or re-use of this software is expressively prohibited and violates Security Blue Team's copyright and intellectual property rights.
+
+We actively look for sharing and abuse of our materials, and will pursue legal action to claim for damages.
+
+We provide our challenges free of charge to the community. Respect our hard work.
